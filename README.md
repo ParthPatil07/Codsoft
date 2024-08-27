@@ -4,9 +4,9 @@ I complete my 3 tasks :
 3) task3 = IRIS_Flower_Classification
 
 **Titanic Survival Prediction 🚢**
-Overview
+/nOverview
 This project predicts Titanic passenger survival using a logistic regression model. It achieves 80% accuracy on the test data.
-Features:
+\nFeatures:
 Pclass: Passenger class (1, 2, 3)
 Sex: Gender
 Age: Age
