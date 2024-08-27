@@ -22,7 +22,6 @@ Accuracy: 80%
 **Iris Flower Classification 🌸**
 <br />**Overview**
 This project classifies Iris flowers into three species using a K Nearest Neighbors (KNN) classifier. The model achieves 100% accuracy on the dataset.
-
 <br />**Features:**
 Sepal Length
 Sepal Width
